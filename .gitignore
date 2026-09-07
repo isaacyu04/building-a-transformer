@@ -1,0 +1,9 @@
+# Local TinyStories Apache Parquet corpus (about 237 MiB)
+hf_stories
+
+# Python bytecode
+__pycache__/
+
+# Finder metadata
+.DS_Store
+*.py[cod]
